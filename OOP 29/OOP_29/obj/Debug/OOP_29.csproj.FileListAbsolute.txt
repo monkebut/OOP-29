@@ -1,0 +1,10 @@
+C:\Users\jeka0\Downloads\OOP_29-master\OOP_29\bin\Debug\OOP_29.exe.config
+C:\Users\jeka0\Downloads\OOP_29-master\OOP_29\bin\Debug\OOP_29.exe
+C:\Users\jeka0\Downloads\OOP_29-master\OOP_29\bin\Debug\OOP_29.pdb
+C:\Users\jeka0\Downloads\OOP_29-master\OOP_29\obj\Debug\OOP_29.csproj.AssemblyReference.cache
+C:\Users\jeka0\Downloads\OOP_29-master\OOP_29\obj\Debug\OOP_29.Form1.resources
+C:\Users\jeka0\Downloads\OOP_29-master\OOP_29\obj\Debug\OOP_29.Properties.Resources.resources
+C:\Users\jeka0\Downloads\OOP_29-master\OOP_29\obj\Debug\OOP_29.csproj.GenerateResource.cache
+C:\Users\jeka0\Downloads\OOP_29-master\OOP_29\obj\Debug\OOP_29.csproj.CoreCompileInputs.cache
+C:\Users\jeka0\Downloads\OOP_29-master\OOP_29\obj\Debug\OOP_29.exe
+C:\Users\jeka0\Downloads\OOP_29-master\OOP_29\obj\Debug\OOP_29.pdb
